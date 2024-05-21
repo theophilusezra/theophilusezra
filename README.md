@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theophilusezra
-- 👀 I’m interested in python
+- 👀 I’m interested in python, C++, and Arduino IDE
 - 🌱 I’m currently learning Ultra-Wideband DW3000
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me email me at: theopandin@gmail.com
+- 📫 How to reach me email me at: theophilusenpandin@gmail.com
 
 <!---
 theophilusezra/theophilusezra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
